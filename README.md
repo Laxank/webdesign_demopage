@@ -33,8 +33,8 @@
                        
             </nav>
 
-            <a href="" class="login" style="font-size: large;">Login</a>
-            <a href="" class="sinup" style="font-size: large;">Sign Up</a>
+            <a href="login_page.html" class="login" style="font-size: large;">Login</a>
+            <a href="signup.html" class="sinup" style="font-size: large;">Sign Up</a>
     
         </div>
         <div class="row10">
@@ -270,19 +270,20 @@
 
 <!----------------- public riwev ---------------->
 <div class="nextrow">
-    <div class="box">
-        <div class="dp">
-            <img src="C:\Users\REYZEN\Downloads/2009.jpg" alt="">
-            <h3>Josefjeny@1</h3>
-            <div class="ret">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa-solid fa-star-half-stroke"></i>
-                <i class="fa-regular fa-star"></i>
-            </div>
-           
-        
+    <div class="box"> 
+        <div class="dpbox">
+            <div class="dp">
+                <img src="C:\Users\REYZEN\Downloads/2009.jpg" alt="" >
+                <h3>Josefjeny@1</h3>
+                <div class="ret">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa-solid fa-star-half-stroke"></i>
+                    <i class="fa-regular fa-star"></i>
+                </div>
+
+        </div>
         </div>
         <div class="pera">
 
@@ -294,20 +295,56 @@
                   for hotel bookings. Offer is applicable for
                    limited domestic one way flight & hotel bookings.</p>
         </div>
-      
-    </div>
+     
+    
+    
+    
+</div>
     <div class="box"> 
-         <div class="dp">
-        <img src="C:\Users\REYZEN\Downloads/2011.jpg" alt="">
-        <h3>Josefjeny@1</h3>
-        <div class="ret">
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa fa-star"></i>
-            <i class="fa-solid fa-star-half-stroke"></i>
-            <i class="fa-regular fa-star"></i>
+        <div class="dpbox">
+            <div class="dp">
+                <img src="C:\Users\REYZEN\Downloads/2011.jpg" alt="" >
+                <h3>Josefjeny@1</h3>
+                <div class="ret">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa-solid fa-star-half-stroke"></i>
+                    <i class="fa-regular fa-star"></i>
+                </div>
+
+        </div>
+        </div>
+        <div class="pera">
+
+            <p>this is offer bar and it for sell
+                Book any ​domestic one-way flight or hotel of your
+                 choice from 12 noon onwards, till limited bookings last.
+                 ​To avail Flat 50% discount simply enter
+                  coupon code CT50AIR for flight or CT50HOTEL 
+                  for hotel bookings. Offer is applicable for
+                   limited domestic one way flight & hotel bookings.</p>
         </div>
      
+    
+    
+    
+</div>
+  
+<div class="box"> 
+    <div class="dpbox">
+        <div class="dp">
+            <img src="C:\Users\REYZEN\Downloads/2010.jpg" alt="" >
+            <h3>Josefjeny@1</h3>
+            <div class="ret">
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa-solid fa-star-half-stroke"></i>
+                <i class="fa-regular fa-star"></i>
+            </div>
+
+    </div>
     </div>
     <div class="pera">
 
@@ -319,36 +356,11 @@
               for hotel bookings. Offer is applicable for
                limited domestic one way flight & hotel bookings.</p>
     </div>
-    
-</div>
-  
-    <div class="box">
-        <div class="dp">
-            <img src="C:\Users\REYZEN\Downloads/2010.jpg" alt="">
-            <h3>Josefjeny@1</h3>
-            <div class="ret">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa-solid fa-star-half-stroke"></i>
-                <i class="fa-regular fa-star"></i>
-            </div>
-           
-           
-            
-        </div>
-        <div class="pera">
+ 
 
-            <p>this is offer bar and it for sell
-                Book any ​domestic one-way flight or hotel of your
-                 choice from 12 noon onwards, till limited bookings last.
-                 ​To avail Flat 50% discount simply enter
-                  coupon code CT50AIR for flight or CT50HOTEL 
-                  for hotel bookings. Offer is applicable for
-                   limited domestic one way flight & hotel bookings.</p>
-                  
-        </div>
-    </div>
+
+
+</div>
     
 </div>
 
@@ -358,13 +370,27 @@
 
 
         <div class="lbox">
-            <h3>ABOUT US</h3>
+            <h3>PASS CATEGORIES</h3>
             <div class="list">
                 <ul>
-                    <li>RETURNS</li>
-                    <li>SECURE PAYMENTS</li>
-                    <li>TRACK AND BUY</li>
-                    <li>CONTACT US</li>
+                    <li>Silvar Pass</li>
+                    <li>Gold Pass</li>
+                    <li>Platinum Ppass</li>
+                    
+                </ul>
+        
+        
+            </div>
+           
+        </div>
+        <div class="lbox">
+            <h3>HELP</h3>
+            <div class="list">
+                <ul>
+                    <li>Returns</li>
+                    <li>Secure Ppayments</li>
+                    <li>Payments Method</li>
+                    <li>Contact US</li>
                 </ul>
         
         
@@ -375,10 +401,10 @@
             <h3>ABOUT US</h3>
             <div class="list">
                 <ul>
-                    <li>RETURNS</li>
-                    <li>SECURE PAYMENTS</li>
-                    <li>TRACK AND BUY</li>
-                    <li>CONTACT US</li>
+                    <li>Careers</li>
+                    <li>Terms & Conditions of Collage</li>
+                    <li>Privacy Policy</li>
+                    <li>Responsibility</li>
                 </ul>
         
         
@@ -386,27 +412,11 @@
            
         </div>
         <div class="lbox">
-            <h3>ABOUT US</h3>
+            <h3>FEEDBACK</h3>
             <div class="list">
                 <ul>
-                    <li>RETURNS</li>
-                    <li>SECURE PAYMENTS</li>
-                    <li>TRACK AND BUY</li>
-                    <li>CONTACT US</li>
-                </ul>
-        
-        
-            </div>
-           
-        </div>
-        <div class="lbox">
-            <h3>ABOUT US</h3>
-            <div class="list">
-                <ul>
-                    <li>RETURNS</li>
-                    <li>SECURE PAYMENTS</li>
-                    <li>TRACK AND BUY</li>
-                    <li>CONTACT US</li>
+                    <li>Leave a feedback</li>
+                    
                 </ul>
         
         
@@ -419,48 +429,72 @@
 
         <div class="tbox">
      
-        <div class="dataa1">
+          <div class="dataa1">
             <h3>FIND A COLLAGE</h3>
             <p>Locete a collage on map</p>
-            <a href="" class="collage" style="font-size: large;">FIND A COLLAGE</a>
-           
+            <a href="" class="collage" style="font-size: large;">COLLAGE LOCATOR</a>
+       
+          </div>
         </div>
-
-        </div>
-        <div class="tbox">
-
-           
+          <div class="tbox">
+     
             <div class="dataa2">
-                <h3>FOLLOW US</h3>
-                
-                <div class="iconr">
-                    <i class="fa-brands fa-facebook" ></i>
-                    <i class="fa-brands fa-twitter"></i>
-                    <i class="fa-solid fa-share-nodes"></i>
-                    <i class="fa-brands fa-instagram"></i>
+              <h3>FOLLOW US</h3>
+
+             
+
+                <div class="dp1">
+                     <img src="C:\Users\REYZEN\Downloads/2005.jpg" alt="" style="width: 80%;
+                     height: 4.2vh;"> 
                 </div>
-           
+               
+             
+
+                <div class="dp1">
+                    <img src="C:\Users\REYZEN\Downloads/2006.png" alt="" >
+                </div>
+               
+             
+
+                <div class="dp1">
+                    <img src="C:\Users\REYZEN\Downloads/2007.jpg" alt="">
+                </div>
+               
+              
+
+                <div class="dp1">
+                    <img src="C:\Users\REYZEN\Downloads/2008.png" alt="">
+                </div>
+               
+             
+              
+             
             </div>
         </div>
-        <div class="tbox">
-          
-            <div class="dataa3">
-                <h3>Alert me</h3>
-               
-               
-               
+            <div class="tbox">
+     
+                <div class="dataa3">
+                  <h3>Alert ME</h3>
+                  <p> updates in your inbox...</p>
+                <div class="text">
+                    <input type="email" placeholder="Email Id">
+                    <label><button>Go</button></label>
+                </div>
+                 
+                </div>
             </div>
-        </div>
+       
+    </div>
+
+    <div class="payment">
 
     </div>
-    
-</div>
+ </div>
+
+
 
 </body>
 </html>
-
-
-
 <!---------------------------------------------------------CSS---------------------------------------------------------------------->
 *{
     margin: 0;
@@ -782,7 +816,6 @@ text-align: justify;
     color: rgb(0, 0, 0);
     margin-left: 850px;
    margin-bottom: -350px;
-
    position: absolute;
    width: 40%;
    height: 25vh;
@@ -817,7 +850,7 @@ margin-left: 200px;
         transition: 0.5s;
         position: absolute;
        
-        
+
     }
     .view:hover{
         background-color: #000405;
@@ -926,20 +959,22 @@ text-align: justify;
 
 .nextrow{
     margin-left: 200px;
+    
 
 }
+
 .dp{
-    width: 5%;
-    height: 10vh;
+    width: 20%;
+    height: 8vh;
     align-items: center;
     background-position: center;
     margin-left:150px;
     margin-top: 30px;
     position: absolute;
-    border: solid;
+    
     border-radius: 60%;
     border: snow;
-    box-shadow: 0 0 20px 0 rgb(212, 212, 212);
+    box-shadow: 0 0 20px 0 rgb(189, 188, 188);
 
 
 }
@@ -953,7 +988,7 @@ text-align: justify;
     height: 30vh;
     text-align: justify;
     margin: 0 5px;
-    margin-top: 200px;
+    margin-top: 200px; 
 }
 .pera p{
     margin-left: 10px;
@@ -985,13 +1020,29 @@ border: snow;
     border: snow;
     box-shadow: 10px 0 20px 0 rgb(212, 212, 212);
     border-radius: 20px;
+transition: 0.5s;
 
 }
+
+.box:hover {
+
+    transform: translateY(-20px);
+}
+.dpbox{
+    width: 450px;
+    height: 20vh;
+
+    position: absolute;
+   
+}
+
 .details{
     width: 100%;
-    height: 70vh;
+    height: 75vh;
     background: linear-gradient(rgb(107, 106, 106),black);
     background-position: center;
+
+   
 }
 
 .lbox{
@@ -1002,26 +1053,31 @@ border: snow;
     display: inline-block;
     margin-left: 150px;
     color: #ffffff;
+    cursor: pointer;
+
 }
 .perent_box h3{
     margin: 20px 0;
+    
 }
 .list ul{
     line-height: 30px;
     font-size: 15px;
+
     
 }
 .list{
 
 margin-left: 10px;
-width: 60%;
+position: absolute;
+width: 10%;
 color: rgb(226, 223, 223);
+
 }
 .perent_box{
     width: 100%;
    height: 40vh;
-  cursor: pointer;
-   background-color: #00000036;
+  margin-bottom: -20px;
     background-position: center;
 
 }
@@ -1029,18 +1085,20 @@ color: rgb(226, 223, 223);
     width: 100%;
     height: 30vh;
     color: white;
-  
+
+
  
     
 
 }
 .tbox{
+display: inline-block;
     width: 25vw;
     height: 25vh;
     margin-top: 30px;
     text-align:left;
-    display: inline-block;
- background-size: cover;
+    background-size: cover;
+    align-items: center;
     margin-left: 100px;
   
     color: #ffffff;
@@ -1049,41 +1107,104 @@ color: rgb(226, 223, 223);
 
 .dataa1{
   
-    width: 25vw;position: absolute;
+    width: 25vw;
+   position: absolute;
     height: 25vh;
+    position: absolute;
+    
+}
+.dataa1 p{
+    
+    margin-top: 5px;
+  font-size: small;
+   color: #ffffffb7; 
 
 }
 .dataa2{
   
     width: 25vw;
-    height: 25vh;position: absolute;
-
+  
+    height: 25vh;
+    position: absolute;
 }
 .dataa3{
-    position: absolute;
-
+  
     width: 25vw;
+ 
     height: 25vh;
+    position: absolute;
+}
+.dataa3 p{
+    
+    margin-top: 5px;
+  font-size: small;
+   color: #ffffffb7; 
 
 }
-.dataa p{
-    color: #bbbaba;
-}
+
 .collage{
+
     padding: 10px 25px;
+    width: 60%;
     position: absolute;
     background-color: #ffae00;
-    margin-top: 10px;
-    border-radius: 10px;
+    margin-top: 20px;
+text-align: center;
     transition: 0.5s;
+    margin-left: 30px;
     
 }
 .collage:hover{
    background-color: #ffae00a4;
 }
-.iconr{
+
+.dp1{
+    width: 10%;
+    height: 5vh;
+    align-items: center;
+    background-position: center;
+    margin-left:25px;
+    margin-top: 30px;
+  display: inline-block;
+    border-radius: 60%;
+    object-fit: cover;
   
-    display:inline-block;
-    width: 10vw;
-    height: 10vh;
+
+}
+.dp1 img{
+    width: 100%;
+    height: 5vh;
+    align-items: center;
+    background-position: center;
+  display: inline-block;
+    border-radius: 60%;
+    object-fit: cover;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.dp1 img:hover{
+  transform: translateY(-10px);
+}
+input[type="email"]{
+    width: 250px;
+    margin-top: 30px;
+    height: 3vh;
+    font-size: 16px;
+   
+
+}
+input[placeholder="Email Id"]{
+    font-size: small;
+    padding-left: 10px;
+   
+}
+
+
+.text button{
+    height: 3.5vh;
+    width: 50px;
+    color: white;
+    font-size: medium;
+    background-color: #ffae00;
+    border-radius: 10px;
 }
